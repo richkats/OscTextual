@@ -1,0 +1,6 @@
+textual~=5.0.1
+textual-dev~=1.7.0
+textual-serve~=1.1.2
+python-osc~=1.9.3
+rich-pixels~=3.0.1
+pillow~=11.3.0
